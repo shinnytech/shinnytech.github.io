@@ -21,23 +21,23 @@ DIFF Collection 包含一系列软件，用于构建一个完整的期货行情/
 交易及行情网关:
 
 - [Open Trade Gateway](https://github.com/shinnytech/open-trade-gateway): 一个开源的交易网关, 支持CTP等交易系统到 DIFF 协议的转换
-- Open Md Gateway:
+- [Open Md Gateway](https://github.com/shinnytech/open-md-gateway): 开放式行情数据网关, 提供实时行情和历史行情服务
 
 
 常规终端软件:
 
 - [Shinny Future Android](https://github.com/shinnytech/shinny-futures-android): 一个开源的 android 平台期货行情交易终端
-- shinny-futures-ios: 
-- shinny-futures-web: 
+- [Shinny Future Ios](https://github.com/shinnytech/shinny-futures-ios): 一个开源的 ios 平台期货行情交易终端
+- [Shinny Future Web](https://github.com/shinnytech/shinny-futures-web): 一个开源的 网页版 期货行情交易终端
 
 
 专业级终端软件:
   
-- [天勤衍生品研究终端](http://www.tq18.cn) : 一套免费的PC行情交易终端, 支持以 DIFF 协议进行扩展开发.
+- [天勤衍生品研究终端](http://www.tq18.cn) : 一套免费的PC行情交易终端, 支持组合, 套利, 高级技术分析, 策略交易, 程序化交易, 历史复盘等大量专业级功能及扩展开发.
 
 
 支持客户进行量化策略研究或程序化交易开发的开发包:
 
 - [Tianqin Python Sdk](https://github.com/tianqin18/tqsdk-python) : 一套开源的 python 框架
-- jssdk
+- [Tianqin Javascript Sdk](https://github.com/tianqin18/tqsdk-js) : 一套开源的 javascript 框架
   
