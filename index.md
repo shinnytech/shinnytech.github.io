@@ -39,4 +39,6 @@ DIFF Collection 包含一系列软件，用于快速构建一个完整的期货�
 
 - [Tianqin Python Sdk](https://github.com/tianqin18/tqsdk-python) : 一套开源的 python 框架
 - [Tianqin Javascript Sdk](https://github.com/tianqin18/tqsdk-js) : 一套开源的 javascript 框架
-  
+
+
+开发交流请加QQ群: 611806823
