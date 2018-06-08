@@ -25,9 +25,9 @@ DIFF Collection 包含一系列软件，用于快速构建一个完整的期货�
 
 常规终端软件:
 
-- [Shinny Future Android](https://github.com/shinnytech/shinny-futures-android): 一个开源的 android 平台期货行情交易终端
-- [Shinny Future Ios](https://github.com/shinnytech/shinny-futures-ios): 一个开源的 ios 平台期货行情交易终端
-- [Shinny Future Web](https://github.com/shinnytech/shinny-futures-web): 一个开源的 网页版 期货行情交易终端
+- [Shinny Futures Android](https://github.com/shinnytech/shinny-futures-android): 一个开源的 android 平台期货行情交易终端
+- [Shinny Futures Ios](https://github.com/shinnytech/shinny-futures-ios): 一个开源的 ios 平台期货行情交易终端
+- [Shinny Futures Web](https://github.com/shinnytech/shinny-futures-web): 一个开源的 网页版 期货行情交易终端
 
 
 专业级终端软件:
