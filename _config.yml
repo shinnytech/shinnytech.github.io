@@ -16,7 +16,7 @@
 title: DIFF Collection
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  为期货行业提供从后端到前端的全套开源方案.
+  为期货行业提供从后端到前端的全套开源解决方案.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
